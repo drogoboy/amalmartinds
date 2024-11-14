@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>welcome -inside</title>
+<body bgcolor="lightgreen">
+<h1>hi guys</h1>
+</body>
+</head>
+</html>
